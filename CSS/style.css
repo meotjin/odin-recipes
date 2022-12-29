@@ -1,0 +1,22 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 700px;
+}
+
+h1,
+h3,
+p{
+    text-align: center;
+}
+
+h1{
+    color: blue;
+}
+
+ul,
+ol{
+    background-color: aquamarine;
+}
